@@ -1,0 +1,12 @@
+commands/music/SkipCommand.class
+commands/music/QueueCommand.class
+commands/music/PlayCommand$1.class
+commands/music/TrackScheduler.class
+commands/music/GuildMusicManager.class
+commands/music/PlayCommand.class
+commands/music/MusicChannelState.class
+bot/DiscordBot.class
+commands/music/AudioPlayerSendHandler.class
+commands/general/UserInfoCommand.class
+commands/music/ManagerFactory.class
+commands/util/MusicController.class

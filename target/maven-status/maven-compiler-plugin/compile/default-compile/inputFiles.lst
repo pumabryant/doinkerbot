@@ -1,0 +1,11 @@
+/Users/bcollaguazo/source/discord-bot/src/main/java/commands/music/PlayCommand.java
+/Users/bcollaguazo/source/discord-bot/src/main/java/commands/util/MusicController.java
+/Users/bcollaguazo/source/discord-bot/src/main/java/commands/general/UserInfoCommand.java
+/Users/bcollaguazo/source/discord-bot/src/main/java/commands/music/MusicChannelState.java
+/Users/bcollaguazo/source/discord-bot/src/main/java/commands/music/QueueCommand.java
+/Users/bcollaguazo/source/discord-bot/src/main/java/commands/music/ManagerFactory.java
+/Users/bcollaguazo/source/discord-bot/src/main/java/commands/music/AudioPlayerSendHandler.java
+/Users/bcollaguazo/source/discord-bot/src/main/java/commands/music/TrackScheduler.java
+/Users/bcollaguazo/source/discord-bot/src/main/java/commands/music/GuildMusicManager.java
+/Users/bcollaguazo/source/discord-bot/src/main/java/commands/music/SkipCommand.java
+/Users/bcollaguazo/source/discord-bot/src/main/java/bot/DiscordBot.java
